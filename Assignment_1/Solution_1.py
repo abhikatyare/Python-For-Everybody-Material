@@ -1,5 +1,4 @@
-import re
+# Author : Abhishek Katyare
+# Date   : 4th September, 2019
 
-x = "From: v-abkaty@microsoft.com"
-y = re.findall(r'^From: (\S+@\S+)',x)
-print(y)
+print("Hello World!")
